@@ -609,8 +609,8 @@ Transform:
   m_GameObject: {fileID: 1681455701}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.0244, y: 6.11, z: 0}
-  m_LocalScale: {x: 10.316479, y: 1, z: 1}
+  m_LocalPosition: {x: 8.2998, y: 6.11, z: 0}
+  m_LocalScale: {x: 11.581279, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -714,12 +714,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pipePrefab: {fileID: 1551528743637918250, guid: 27e45494a6b597946ac2a8bd32f2f6c2, type: 3}
   spawnInterval: 4
-  pipeSpeed: 2
+  pipeSpeed: 5.25
   spawnHeights:
-  - 2
-  - 3
-  - 4
-  - 5
+  - 4.5
 --- !u!1971053207 &1935645540
 SpriteShapeRenderer:
   m_ObjectHideFlags: 0
@@ -788,8 +785,8 @@ Transform:
   m_GameObject: {fileID: 1935645537}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.2, y: -5.811, z: 0}
-  m_LocalScale: {x: 9.1054535, y: 0.9528, z: 1}
+  m_LocalPosition: {x: 10.7422, y: -5.811, z: 0}
+  m_LocalScale: {x: 10.221782, y: 0.9528, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
